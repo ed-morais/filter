@@ -1,5 +1,5 @@
-## A program that applies filters to BMPs.<br/>
-
+## Filter.<br/>
+A program that applies filters to BMPs.
 The four filters implemented are Grayscale (-g), Reflection (-r) and Blur (-b).<br/>
 
 The following commands can be used to generate different filtered images.<br/>
